@@ -163,7 +163,7 @@ Beyond-the-Shelves/
 ├── Documentation/
 │   ├── Business_Analysis_Report.docx
 │   ├── Data_Dictionary.docx
-│   └── Project_Methodology.md
+|
 │
 ├── Dataset/
 │   ├── Dimensions/
