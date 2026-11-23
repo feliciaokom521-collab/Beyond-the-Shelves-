@@ -162,7 +162,7 @@ Beyond-the-Shelves/
 │
 ├── Documentation/
 │   ├── Business_Analysis_Report.pdf
-│   ├── Data_Dictionary.pdf
+│   ├── Data_Dictionary.docx
 │
 ├── SQL/
 │   ├── 01_Database_Setup_and_Data_Validation/
