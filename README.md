@@ -161,21 +161,17 @@ Beyond-the-Shelves/
 ├── README.md
 │
 ├── Documentation/
-│   ├── Business_Analysis_Report.docx
-│   ├── Data_Dictionary.docx
-|
-│
-├── Dataset/
-│   ├── Dimensions/
-│   └── Facts/
+│   ├── Business_Analysis_Report.pdf
+│   ├── Data_Dictionary.pdf
 │
 ├── SQL/
-│   ├── 01_Database_Setup/Data_Import/Data_Validation/
-│ 
-│   └── 03_Business_Analysis/
+│   ├── 01_Database_Setup_and_Data_Validation/
+│   └── 02_Business_Analysis/
+│
+├── Dataset/
 │
 ├── Power_BI/
-│   └── Beyond_the_Shelves_Dashboard.pbix
+│   └── Beyond_the_Shelves.pbix
 │
 └── Images/
     └── Dashboard_Screenshots/
