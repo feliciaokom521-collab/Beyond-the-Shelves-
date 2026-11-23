@@ -1,0 +1,16 @@
+StoreID,StoreName,State,GeopoliticalZone,StoreType,DistributionCentreID,StoreOpeningDate,StoreStatus
+1,NovaMart FCT Store 01,FCT,North Central,Supermarket,2,2023-01-01,Active
+2,NovaMart FCT Store 02,FCT,North Central,Supermarket,2,2023-01-01,Active
+3,NovaMart Kogi Store 01,Kogi,North Central,Neighbourhood,2,2023-01-01,Active
+4,NovaMart Borno Store 01,Borno,North East,Supermarket,2,2023-01-01,Active
+5,NovaMart Adamawa Store 01,Adamawa,North East,Supermarket,2,2023-01-01,Active
+6,NovaMart Kano Store 01,Kano,North West,Neighbourhood,2,2023-01-01,Active
+7,NovaMart Kaduna Store 01,Kaduna,North West,Supermarket,2,2023-01-01,Active
+8,NovaMart Enugu Store 01,Enugu,South East,Supermarket,3,2023-01-01,Active
+9,NovaMart Anambra Store 01,Anambra,South East,Neighbourhood,3,2023-01-01,Active
+10,NovaMart Rivers Store 01,Rivers,South South,Supermarket,3,2023-01-01,Active
+11,NovaMart Rivers Store 02,Rivers,South South,Supermarket,3,2023-01-01,Active
+12,NovaMart Edo Store 01,Edo,South South,Neighbourhood,3,2023-01-01,Active
+13,NovaMart Lagos Store 01,Lagos,South West,Supermarket,1,2023-01-01,Active
+14,NovaMart Lagos Store 02,Lagos,South West,Supermarket,1,2023-01-01,Active
+15,NovaMart Oyo Store 01,Oyo,South West,Neighbourhood,1,2023-01-01,Active

@@ -1,0 +1,121 @@
+ProductID,ProductName,CategoryID,Brand,UnitCostNGN,UnitPriceNGN,SupplierID,ShelfLifeDays,IsPerishable,ProductStatus,DemandClass
+1,Tissue Paper 001,8,Northstar,2734.81,3957.86,16,,FALSE,Active,Low
+2,Sanitary Pads 002,3,ValueWay,607.07,697.56,10,,FALSE,Active,Low
+3,Malt Drink 003,1,Nexa,1496.12,2233.5,16,180,FALSE,Active,Medium
+4,Baby Wipes 004,7,DailyChoice,1617.49,1988.43,14,,FALSE,Active,Low
+5,Bottled Water 005,1,Northstar,490.22,788.16,19,540,FALSE,Active,Low
+6,Kitchen Towel 006,8,Northstar,7366.7,9886.9,20,,FALSE,Active,Medium
+7,Disinfectant 007,4,BluePeak,3205.38,4094.51,10,,FALSE,Active,High
+8,Potato Chips 008,5,Northstar,1667.31,2039.9,21,540,FALSE,Active,Medium
+9,Baby Wipes 009,7,Northstar,506.17,698.98,5,,FALSE,Active,Low
+10,Diapers 010,7,ValueWay,712.56,1051.17,11,,FALSE,Active,Low
+11,Laundry Detergent 011,4,Northstar,428.72,522.64,17,,FALSE,Active,Medium
+12,Surface Cleaner 012,4,ValueWay,551.1,736.42,11,,FALSE,Active,Low
+13,Baby Wipes 013,7,HomeSure,3394.21,4890.84,4,,FALSE,Active,Low
+14,Cream 014,6,PrimeNest,438.74,686.79,4,60,TRUE,Active,Medium
+15,Sanitary Pads 015,3,Nexa,1610.18,2549.61,13,,FALSE,Active,Medium
+16,Baby Wipes 016,7,BluePeak,1611.37,2253.14,4,,FALSE,Active,Medium
+17,Storage Container 017,8,Nexa,972.04,1545.91,19,,FALSE,Active,Low
+18,Kitchen Towel 018,8,BluePeak,1262.15,1867.19,3,,FALSE,Active,High
+19,Milk 019,6,ValueWay,2823.65,4196.69,20,90,TRUE,Active,Medium
+20,Bottled Water 020,1,PrimeNest,1785.4,2468.77,24,365,FALSE,Active,Medium
+21,Fruit Juice 021,1,DailyChoice,914.15,1396.81,7,180,FALSE,Active,Medium
+22,Cream 022,6,Northstar,2262.37,3388.35,12,90,TRUE,Active,Medium
+23,Surface Cleaner 023,4,DailyChoice,529.57,795.65,23,,FALSE,Active,Medium
+24,Surface Cleaner 024,4,FreshField,681.96,846.13,3,,FALSE,Active,Medium
+25,Kitchen Towel 025,8,Northstar,282.08,325.88,11,,FALSE,Active,Medium
+26,Disinfectant 026,4,Nexa,3382.89,4350.11,13,,FALSE,Active,Medium
+27,Soap 027,3,DailyChoice,3170.79,4813.66,23,,FALSE,Active,High
+28,Pasta 028,2,PrimeNest,636.04,869.52,2,180,FALSE,Active,Medium
+29,Dishwashing Liquid 029,4,Northstar,2254.74,2641.56,2,,FALSE,Active,Low
+30,Sanitary Pads 030,3,Nexa,4774.08,5588.75,6,,FALSE,Active,Low
+31,Popcorn 031,5,ValueWay,895.34,1321.86,20,540,FALSE,Active,Low
+32,Storage Container 032,8,HomeSure,1823.05,2442.78,12,,FALSE,Active,Low
+33,Rice 033,2,DailyChoice,946.88,1326.7,11,365,FALSE,Active,Medium
+34,Tomato Paste 034,2,PrimeNest,1200.43,1464.77,19,180,FALSE,Active,Medium
+35,Shampoo 035,3,Nexa,765.45,1090.84,17,,FALSE,Active,Medium
+36,Sanitary Pads 036,3,Nexa,1174.66,1478.25,22,,FALSE,Active,Low
+37,Baby Soap 037,7,BluePeak,2046.96,3051.25,2,,FALSE,Active,Low
+38,Potato Chips 038,5,ValueWay,881.13,1064.97,22,540,FALSE,Active,Low
+39,Rice 039,2,ValueWay,2316.97,2709.03,3,365,FALSE,Active,Low
+40,Cereal 040,2,FreshField,386.97,613.57,15,365,FALSE,Active,Low
+41,Baby Soap 041,7,BluePeak,3015.18,4755.55,15,,FALSE,Active,Medium
+42,Biscuits 042,5,ValueWay,97.74,135.79,1,365,FALSE,Active,Medium
+43,Sanitary Pads 043,3,HomeSure,1051.89,1413.61,13,,FALSE,Active,Low
+44,Fruit Juice 044,1,HomeSure,776.05,1216.61,3,540,FALSE,Active,Medium
+45,Rice 045,2,DailyChoice,2391.97,3101.78,17,540,FALSE,Active,Low
+46,Dishwashing Liquid 046,4,HomeSure,5922.78,8687.72,10,,FALSE,Active,Medium
+47,Body Lotion 047,3,Nexa,753.25,897.77,14,,FALSE,Active,Medium
+48,Dishwashing Liquid 048,4,Nexa,1166.97,1690.57,24,,FALSE,Active,Low
+49,Tomato Paste 049,2,Nexa,3430.25,4541.19,1,540,FALSE,Active,Medium
+50,Cereal 050,2,BluePeak,6565.33,7731.23,4,180,FALSE,Active,Low
+51,Storage Container 051,8,FreshField,2102.09,2996.08,19,,FALSE,Active,High
+52,Beans 052,2,Northstar,763.3,1003.32,8,365,FALSE,Active,Medium
+53,Popcorn 053,5,Northstar,1052.58,1236.52,22,540,FALSE,Active,Low
+54,Pasta 054,2,Northstar,4616.42,5416.23,17,180,FALSE,Active,Low
+55,Batteries 055,8,DailyChoice,276.39,427.34,7,,FALSE,Active,High
+56,Biscuits 056,5,Nexa,107.45,158.47,8,365,FALSE,Active,Medium
+57,Sanitary Pads 057,3,ValueWay,342.69,390.05,25,,FALSE,Active,High
+58,Baby Soap 058,7,BluePeak,554.13,840.67,21,,FALSE,Active,High
+59,Cream 059,6,HomeSure,3668.7,5401.09,12,30,TRUE,Active,Low
+60,Fruit Juice 060,1,BluePeak,360.87,425.8,14,365,FALSE,Active,Low
+61,Body Lotion 061,3,DailyChoice,3762.79,4481.41,1,,FALSE,Active,Low
+62,Diapers 062,7,ValueWay,2280.15,3647.38,2,,FALSE,Active,Low
+63,Light Bulb 063,8,BluePeak,2905.53,3343.58,11,,FALSE,Active,Low
+64,Body Lotion 064,3,ValueWay,383.42,460.68,12,,FALSE,Active,Low
+65,Cooking Oil 065,2,DailyChoice,3283.25,4594.95,7,540,FALSE,Active,Low
+66,Toothpaste 066,3,BluePeak,629.91,863.22,12,,FALSE,Active,Low
+67,Tea Drink 067,1,Nexa,276.61,369.89,12,180,FALSE,Active,Medium
+68,Storage Container 068,8,ValueWay,409.45,506.93,11,,FALSE,Active,Medium
+69,Biscuits 069,5,FreshField,511.01,714.7,22,180,FALSE,Active,Medium
+70,Milk 070,6,FreshField,1803.34,2261.05,12,60,TRUE,Active,High
+71,Light Bulb 071,8,BluePeak,530.16,725.1,14,,FALSE,Active,Low
+72,Batteries 072,8,PrimeNest,3072.36,3851.11,14,,FALSE,Active,Low
+73,Cream 073,6,ValueWay,1084.45,1511.98,21,90,TRUE,Active,Medium
+74,Cheese 074,6,ValueWay,3111.06,4857.05,7,180,TRUE,Active,Low
+75,Yoghurt 075,6,Northstar,741.81,1120.08,2,30,TRUE,Active,Medium
+76,Tomato Paste 076,2,PrimeNest,4763.01,5502.86,13,180,FALSE,Active,Medium
+77,Chocolate Bar 077,5,HomeSure,188.67,274.67,18,540,FALSE,Active,High
+78,Disinfectant 078,4,Northstar,1371.14,1632.19,13,,FALSE,Active,Low
+79,Diapers 079,7,FreshField,4911.88,7907.35,8,,FALSE,Active,Low
+80,Tea Drink 080,1,BluePeak,1069.23,1534.94,9,180,FALSE,Active,Medium
+81,Shampoo 081,3,DailyChoice,486.77,654.72,11,,FALSE,Active,Medium
+82,Popcorn 082,5,HomeSure,1775.42,2414.06,25,365,FALSE,Active,Low
+83,Baby Wipes 083,7,HomeSure,1256.35,1614.99,19,,FALSE,Active,High
+84,Tissue Paper 084,8,DailyChoice,1240.95,1637.19,7,,FALSE,Active,Medium
+85,Cream 085,6,DailyChoice,459.45,560.67,13,180,TRUE,Active,Medium
+86,Disinfectant 086,4,HomeSure,2057.63,2397.81,22,,FALSE,Active,Medium
+87,Surface Cleaner 087,4,HomeSure,2697.63,3792.95,16,,FALSE,Active,Low
+88,Biscuits 088,5,Nexa,240.75,325.46,22,180,FALSE,Active,Medium
+89,Dishwashing Liquid 089,4,FreshField,3787.72,5752.26,23,,FALSE,Active,Low
+90,Chocolate Bar 090,5,FreshField,436.12,661.86,22,365,FALSE,Active,Medium
+91,Cheese 091,6,BluePeak,508.14,654.5,10,30,TRUE,Active,Low
+92,Tomato Paste 092,2,Nexa,953.74,1148.83,18,365,FALSE,Active,High
+93,Fruit Juice 093,1,PrimeNest,407.75,562.88,5,540,FALSE,Active,High
+94,Cream 094,6,FreshField,1587.25,2540.7,25,180,TRUE,Active,Low
+95,Soft Drink 095,1,HomeSure,1878.29,2711.87,12,540,FALSE,Active,Low
+96,Soft Drink 096,1,ValueWay,232.97,337.85,25,365,FALSE,Active,Medium
+97,Beans 097,2,BluePeak,5112.32,8192.7,25,540,FALSE,Active,Medium
+98,Baby Lotion 098,7,HomeSure,997.4,1176.47,25,,FALSE,Active,High
+99,Fruit Juice 099,1,DailyChoice,2557.4,3368.96,11,180,FALSE,Active,Low
+100,Soft Drink 100,1,PrimeNest,230.03,312.72,24,365,FALSE,Active,Low
+101,Baby Soap 101,7,PrimeNest,351.45,448.8,3,,FALSE,Active,High
+102,Storage Container 102,8,HomeSure,2925.16,4211.58,19,,FALSE,Active,Low
+103,Crackers 103,5,Northstar,1142.15,1316.95,16,180,FALSE,Active,Medium
+104,Surface Cleaner 104,4,ValueWay,378.47,507.2,1,,FALSE,Active,Low
+105,Milk 105,6,DailyChoice,905.84,1399.77,11,180,TRUE,Active,Low
+106,Batteries 106,8,ValueWay,770.42,1170.62,12,,FALSE,Active,Medium
+107,Toothpaste 107,3,BluePeak,517.84,797.3,3,,FALSE,Active,Medium
+108,Butter 108,6,Nexa,833.39,1201.87,16,60,TRUE,Active,Low
+109,Biscuits 109,5,Nexa,313.93,371.77,22,540,FALSE,Active,Low
+110,Potato Chips 110,5,FreshField,528.5,679.32,9,180,FALSE,Active,Low
+111,Tomato Paste 111,2,Northstar,1076.2,1247.72,8,365,FALSE,Active,Medium
+112,Tea Drink 112,1,Nexa,1054.97,1334.15,25,540,FALSE,Active,Medium
+113,Potato Chips 113,5,DailyChoice,459.66,570.28,15,180,FALSE,Active,Low
+114,Toothpaste 114,3,ValueWay,3957.12,5330.75,16,,FALSE,Active,Low
+115,Cheese 115,6,DailyChoice,880.68,1077.62,4,60,TRUE,Active,Medium
+116,Baby Soap 116,7,ValueWay,709.2,966.19,20,,FALSE,Active,Low
+117,Baby Lotion 117,7,BluePeak,1184.3,1566.17,7,,FALSE,Active,Low
+118,Tea Drink 118,1,DailyChoice,1827.39,2706.34,15,180,FALSE,Active,Medium
+119,Yoghurt 119,6,Nexa,1685.53,2668.63,11,30,TRUE,Active,Low
+120,Laundry Detergent 120,4,Northstar,9009.94,10559.94,7,,FALSE,Active,High

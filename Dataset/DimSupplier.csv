@@ -1,0 +1,26 @@
+SupplierID,SupplierName,SupplierState,StandardLeadTimeDays,SupplierTier,SupplierStatus
+1,Supplier 01 Ltd,Lagos,7,Preferred,Active
+2,Supplier 02 Ltd,Lagos,6,Strategic,Active
+3,Supplier 03 Ltd,Anambra,7,Standard,Active
+4,Supplier 04 Ltd,Edo,5,Preferred,Active
+5,Supplier 05 Ltd,Anambra,6,Standard,Active
+6,Supplier 06 Ltd,Kano,3,Standard,Active
+7,Supplier 07 Ltd,Edo,7,Standard,Active
+8,Supplier 08 Ltd,Anambra,4,Standard,Active
+9,Supplier 09 Ltd,Rivers,7,Strategic,Active
+10,Supplier 10 Ltd,Kano,2,Strategic,Active
+11,Supplier 11 Ltd,Enugu,7,Standard,Active
+12,Supplier 12 Ltd,Enugu,4,Preferred,Active
+13,Supplier 13 Ltd,Kano,2,Preferred,Active
+14,Supplier 14 Ltd,Kaduna,6,Preferred,Active
+15,Supplier 15 Ltd,Rivers,6,Preferred,Active
+16,Supplier 16 Ltd,Kano,7,Preferred,Active
+17,Supplier 17 Ltd,Oyo,6,Strategic,Active
+18,Supplier 18 Ltd,Edo,2,Standard,Active
+19,Supplier 19 Ltd,Kano,6,Standard,Active
+20,Supplier 20 Ltd,Kaduna,5,Strategic,Active
+21,Supplier 21 Ltd,Kano,6,Preferred,Active
+22,Supplier 22 Ltd,Lagos,7,Standard,Active
+23,Supplier 23 Ltd,Lagos,5,Preferred,Active
+24,Supplier 24 Ltd,FCT,5,Preferred,Active
+25,Supplier 25 Ltd,Enugu,7,Preferred,Active
